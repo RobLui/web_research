@@ -6,4 +6,4 @@
 
 > Explored basic blog post opensource code + implemented in the site
 
-> Explored folderstructure/ look &f eel joomla
+> Explored folderstructure/ look & feel joomla
