@@ -1,0 +1,28 @@
+New Technology
+
+Facebook Marketplace vs 2dehands.be
+
+Mogelijke vergelijkingen
+- Ease-of-use
+- How-to-use
+- Bereikbaarheid door mensen (gekoppeld aan bestaand gb account ,vs nieuw account aanmaken voor 2dehands.be etc)
+- Drempel tot gebruik
+- Privacy
+- Push notification handling
+- seo door google
+- Feedback/rating , just made accounts op Facebook met 0 feedback vs just made accounts op 2dehands met 0 feedback
+- app vs app
+- Inkomstenbron (bv: 2dehands, betaalde advertenties ranken bovenaan pagina etc)
+- How to contact
+- Aantal reacties
+- Gemiddelde aantal reacties marketplace vs 2dehands, tas vergelijkbare items
+- concurrentie? (Zichtbaar/niet zichtbare concurrentie
+- Zoekterm relevantie (zoekertjes effectief gelijkend aan je search term , en hoe specifiek je kan zoeken op de 2)
+    - > op categorie (want op individuele zoekterm zal het wel gelijkaardig zijn wat er weergegeven wordt)
+- Notificaties per email/ hoe anders?
+- Scheiding privé Facebook / marketplace, vs Facebook privé en 2dehands volledig gescheiden
+- Persoonlijke meningen/ervaringen
+- Meerwaarde van de ene vs de andere 
+- Advertentie intrusion, hoe prominent duikt het bij marketplace op en hoe bij 2dehands
+- API mogelijkheden (idea SAM)
+    - stel ge hebt nen site met info over 2de hands fruitmanden, dan kunde met nen api de 2de hands fruitmanden die op 2dehands.be te koop staan bvb tonen en mensen zo nr 2dehands.be begeleiden, (random voorbeeld, top of mind :p)
