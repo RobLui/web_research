@@ -14,11 +14,13 @@
 
 > verder verkend basic admin mogelijkheden
 
-## 25/09/2017
+## 26/09/2017
 
 > uninstallen , (zoals bv een template) je dit kan doen in de manage -> manage -> ..) Bij templates -> .. wou hij de template niet verwijderen en gaf hij de locatie manage -> manage .. aan
 
-> Templates kunnen geïnstalleerd worden vanaf verschillende locaties, url/browser/web ding in Joomla zelf url eigen testproject: <http://joomla.local/administrator/index.php?option=com_installer> extenties verkend
+> Templates kunnen geïnstalleerd worden vanaf verschillende locaties, url/browser/web ding in Joomla zelf url eigen testproject: <http://joomla.local/administrator/index.php?option=com_installer> >
+
+> extenties briefly verkend
 
 # Sources
 
