@@ -29,3 +29,7 @@
 > [Joomla basics](http://bj.zemplate.com/joomla-basics/joomla-3-fundamentals)
 
 > [Configuratie verkenning](http://www.inmotionhosting.com/support/edu/joomla-25/database/change-joomla25-db-user-pass)
+
+> [Extentions](https://www.joomlaempresa.es/en/downloads/free-extensions.html)
+
+> [Template styles (eigen url)](http://joomla.local/administrator/index.php?option=com_templates&view=styles)
