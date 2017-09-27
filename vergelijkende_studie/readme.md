@@ -2,10 +2,16 @@
 
 ## 25/09/2017
 
-> Approval from Sam to compare both platforms
+> Toestemming van Sam voor beide platformen te vergelijken gekregen
 
 ## 26/09/2017
 
-> Cleaned up initial idea
+> Initiele idee verfijnd
 
-> Added order to compare
+> Vergelijkingsvolgorde toegevoedg
+
+## 27/09/2017
+
+> beide platformen basic gaan uittesten en op basis daarvan al een korte samenvatting van functionaliteiten gemaakt
+
+> Mogelijkheden van de platformen nog niet in detail bestudeerd, maar wel al gezien naar de extra features die bij allebei inzitten en hoe ze werken zoals chat, etc.
