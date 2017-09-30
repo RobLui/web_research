@@ -22,6 +22,14 @@
 
 > extenties briefly verkend
 
+## 30/09/2017
+
+> Verschillende secties leren kennen, artikel aangemaakt
+
+> Publish, trash, edit, enz.. front&back-end mogelijkheden afgelopen
+
+> Filtering in Articles
+
 # Sources
 
 > [howtogeek](https://www.howtogeek.com/219983/how-to-use-ampps-to-install-joomla-locally/)
@@ -35,3 +43,5 @@
 > [Extentions](https://www.joomlaempresa.es/en/downloads/free-extensions.html)
 
 > [Template styles (eigen url)](http://joomla.local/administrator/index.php?option=com_templates&view=styles)
+
+> [Youtube series Quentin Watt](https://www.youtube.com/watch?v=G1OnRluCu8g)
