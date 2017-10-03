@@ -12,8 +12,16 @@
 
 ## 27/09/2017
 
-zie [exploratie.txt](https://github.com/RobLui/web_research/blob/master/vergelijkende_studie/exploratie.txt)
+zie [how_to.txt](https://github.com/RobLui/web_research/blob/master/vergelijkende_studie/txtfiles/how_to.txt)
 
 > beide platformen basic gaan uittesten en op basis daarvan al een korte samenvatting van functionaliteiten gemaakt
 
 > Mogelijkheden van de platformen nog niet in detail bestudeerd, maar wel al gezien naar de extra features die bij allebei inzitten en hoe ze werken zoals chat, etc.
+
+## 03/10/2017
+
+zie [reachability.txt](https://github.com/RobLui/web_research/blob/master/vergelijkende_studie/txtfiles/reachability.txt)
+
+> Opsomming bereikbaarheid/gekendheid beide platformen
+
+> Drempel tot gebruik bestudeerd
