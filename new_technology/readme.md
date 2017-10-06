@@ -52,6 +52,10 @@
 
 > Meerdere pagina's aangemaakt, verder de basic tutorial afgemaakt (vanuit GRAV zelf)
 
+> Grav forum explored, account aangemaakt
+
+> Certificate van het forum behaald (lol) -> included in de GRAV folder
+
 # Bronnen
 
 ## JOOMLA
