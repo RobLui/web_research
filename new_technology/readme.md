@@ -44,6 +44,10 @@
 
 > Toestemming gekregen van Sam om dieper in te gaan op GRAV. [Website GRAV](https://getgrav.org/)
 
+> GRAV docs overlopen
+
+> GRAV geinstalleerd
+
 # Bronnen
 
 ## JOOMLA
