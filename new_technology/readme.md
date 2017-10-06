@@ -48,6 +48,10 @@
 
 > GRAV geinstalleerd
 
+> GRAV (gebaseerd = YAML / MARKDOWN), verdere uitbreiding verkend
+
+> Meerdere pagina's aangemaakt, verder de basic tutorial afgemaakt (vanuit GRAV zelf)
+
 # Bronnen
 
 ## JOOMLA
@@ -73,3 +77,5 @@
 > [GRAV Website](https://getgrav.org/)
 
 > [GRAV github](https://github.com/gantry/gantry5)
+
+> [GRAV basic tutorial](https://learn.getgrav.org/basics/basic-tutorial)
