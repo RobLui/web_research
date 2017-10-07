@@ -68,6 +68,8 @@
 
 > logboek op GRAV testsite geintegreerd
 
+> SITE ONLINE GEZET + ADMIN mogelijkheden
+
 ## Bronnen
 
 ### _Joomla_
