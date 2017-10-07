@@ -62,9 +62,15 @@
 
 > Clean-blog geinstalleerd en opgezet
 
-# Bronnen
+> Homepagina header banner foto customized
 
-## JOOMLA
+> Meerdere pagina's aangemaakt, verder alle admin mogelijkheden verkend
+
+> logboek op GRAV testsite geintegreerd
+
+## Bronnen
+
+### _Joomla_
 
 > [howtogeek](https://www.howtogeek.com/219983/how-to-use-ampps-to-install-joomla-locally/)
 
@@ -80,7 +86,7 @@
 
 > [Youtube series Quentin Watt](https://www.youtube.com/watch?v=G1OnRluCu8g)
 
-## GRAV
+### _Grav_
 
 > [Gantry Rockettheme](http://www.joomlaperfect.com/gantry-rockettheme) (dit was de bron bij de GRAV ontdekking)
 
