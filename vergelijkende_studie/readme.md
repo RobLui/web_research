@@ -25,3 +25,7 @@ zie [reachability.txt](https://github.com/RobLui/web_research/blob/master/vergel
 > Opsomming bereikbaarheid/gekendheid beide platformen
 
 > Drempel tot gebruik bestudeerd
+
+## 14/10/2017
+
+> Notificaties
