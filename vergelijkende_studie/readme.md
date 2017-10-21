@@ -8,7 +8,7 @@
 
 > Initiele idee verfijnd
 
-> Vergelijkingsvolgorde toegevoedg
+> Vergelijkingsvolgorde toegevoegd
 
 ## 27/09/2017
 
@@ -31,3 +31,11 @@ zie [reachability.txt](https://github.com/RobLui/web_research/blob/master/vergel
 zie [Notificaties.txt](https://github.com/RobLui/web_research/blob/master/vergelijkende_studie/txtfiles/notificaties.txt)
 
 > Notificaties
+
+## 21/10/2017
+
+zie [search.txt](https://github.com/RobLui/web_research/blob/master/vergelijkende_studie/txtfiles/search.txt)
+
+> search mogelijkheden dieper op ingegaan
+
+> seo door google bestudeerd voor beide platformen
