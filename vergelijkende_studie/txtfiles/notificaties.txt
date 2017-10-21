@@ -24,7 +24,8 @@ CONTACT
 
 ADVERTENTIES
 
-> geen advertenties? -> is een speciale rubriek voorzien onder 'advertenties'
+> geen advertenties? -> is een speciale rubriek voorzien 'advertenties'
+
 
 
 

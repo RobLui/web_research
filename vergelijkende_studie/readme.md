@@ -28,4 +28,6 @@ zie [reachability.txt](https://github.com/RobLui/web_research/blob/master/vergel
 
 ## 14/10/2017
 
+zie [Notificaties.txt](https://github.com/RobLui/web_research/blob/master/vergelijkende_studie/txtfiles/notificaties.txt)
+
 > Notificaties
