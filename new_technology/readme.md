@@ -70,6 +70,12 @@
 
 > SITE ONLINE GEZET + ADMIN mogelijkheden
 
+### 21/09/2017
+
+> updates geinstalleerd voor packages
+
+> verder ingediept op content in GRAV & hoe deze weer te geven/manipuleren
+
 ## Bronnen
 
 ### _Joomla_
