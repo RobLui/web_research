@@ -76,6 +76,10 @@
 
 > verder ingediept op content in GRAV & hoe deze weer te geven/manipuleren
 
+> Headers & Frontmatters done
+
+> Begin page collections
+
 ## Bronnen
 
 ### _Joomla_
