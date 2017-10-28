@@ -32,7 +32,7 @@
 
 > Filtering in Articles
 
-### 06/09/2017
+### 06/10/2017
 
 > Tijdens mijn zoektocht naar meer mogelijkheden met Joomla, ben ik GRAV tegengekomen.
 
@@ -40,7 +40,7 @@
 
 ## GRAV
 
-### 06/09/2017
+### 06/10/2017
 
 > Toestemming gekregen van Sam om dieper in te gaan op GRAV. [Website GRAV](https://getgrav.org/)
 
@@ -56,7 +56,7 @@
 
 > Certificate van het forum behaald (lol) -> included in de GRAV folder
 
-### 07/09/2017
+### 07/10/2017
 
 > Admin geinstalleerd en opgezet
 
@@ -70,7 +70,7 @@
 
 > SITE ONLINE GEZET + ADMIN mogelijkheden
 
-### 21/09/2017
+### 21/10/2017
 
 > updates geinstalleerd voor packages
 
@@ -79,6 +79,22 @@
 > Headers & Frontmatters done
 
 > Begin page collections
+
+### 28/10/2017
+
+> Alle plugins verkend, hieruit de meest interessant lijkende geinstalleerd en verder op verkenning gegaan
+
+> highlight package geinstalleerd (voor code highlights)
+
+> youtube embedded in grav iframe geinstalleerd
+
+> SEO plugin geinstalleerd
+
+> Auto SEO plugin geinstalleerd
+
+> SimpleSearch geinstalleerd
+
+> Language selector plugin geinstalleerd
 
 ## Bronnen
 
