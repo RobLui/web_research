@@ -2,7 +2,7 @@
 
 ## GRAV
 
----- VANAF 28/10 gaat het logboek door op de site : [robbertluit.be](https://www.robbertluit.be), of in repo : [grav_sync](https://github.com/RobLui/grav_sync)
+---- VANAF 28/10 gaat het logboek door op de site : [research](https://www.research.robbertluit.be), of in repo : [grav_sync](https://github.com/RobLui/grav_sync)
 
 ### 28/10/2017
 
