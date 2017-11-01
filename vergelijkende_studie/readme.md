@@ -39,3 +39,13 @@ zie [search.txt](https://github.com/RobLui/web_research/blob/master/vergelijkend
 > search mogelijkheden dieper op ingegaan
 
 > seo door google bestudeerd voor beide platformen
+
+## 01/11/2017
+
+zie [communication.txt](https://github.com/RobLui/web_research/blob/master/vergelijkende_studie/txtfiles/communication.txt)
+
+> Feedback/rating
+
+> Gemiddelde
+
+> Concurrentie
