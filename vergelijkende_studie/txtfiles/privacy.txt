@@ -1,0 +1,52 @@
+# Privacy
+
+## Gegevens verzameling / manier van data opslag
+
+### 2dehands
+
+AUTOMATISCH
++ de unieke identificatie van het toestel of mobiele apparaat
++ soort toestel of apparaat
++ informatie over de geografische locatie 
++ informatie over de computer en verbinding
++ statistieken betreffende bekeken pagina’s
++ verkeer van en naar 2dehands.be
++ verwijzende URL
++ advertentiegegevens
++ IP-adres
++ informatie van cookies en web beacons.
+
+VERSTREKT DOOR GEBRUIKER
++ gegevens die verstrekt worden bij het aanmaken van een account of voor de diensten afgenomen worden
++ aanvullende gegevens die mogelijk aan verstrekt worden via social media websites of diensten van derden
++ gegevens die worden verstrekt in het kader van geschillenbeslechting, correspondentie via onze websites of correspondentie die 2dehands wordt toegezonden
++ gegevens over uw locatie en de locatie van uw toestel
++ unieke identificatiegegevens van uw toestel indien u deze dienst heeft ingeschakeld op uw mobiele apparaat
+
+DOORGIFTE ONDER VOORWAARDE
++ Doorgifte van persoonsgegevens aan derden: 
+  + Wij kunnen uw persoonsgegevens bekend maken aan derden in overeenstemming met het Privacybeleid van 2dehands en de toepasselijke wet- en regelgeving. 
+  + Wij maken uw persoonsgegevens niet bekend aan derden voor hun marketingdoeleinden zonder uw uitdrukkelijke toestemming. 
+  + Wij kunnen uw persoonsgegevens delen met:
++ ondernemingen van de eBay Groep
++ dienstverleners met wie 2dehands een contract heeft afgesloten
++ bepaalde derden (zoals rechthebbenden van intellectuele eigendomsrechten, toezichthouders, belastingdienst, politie en andere wettelijke instanties)
++ andere derden, waarvoor de gebruiker specifiek toestemming heeft gegeven  
++ ondernemingen waarmee wij in het kader van een reorganisatie van plan zijn te fuseren of waardoor wij worden overgenomen
++ VERO Programma leden (intellectueel eigendom bescherming) -> [meer info](http://help.tweedehands.nl/HelpContentBlock?article=kA020000000PiP0CAK)
+
+Bij verdere uitpluizing => CRASH :P
+[CRASH LINK](http://help.2dehands.be/HelpSearchResult?bctitle=Zoekresultaten&cate=Privacy_nl)
+-> data 01 Jan 1990 12:00:00 GMT? :p in console inspector
+
++ Bij fout ingegeven data geeft hij gewoon een error weer :p
+  + BV bij ingeven: , (komma) 
+  + http://help.2dehands.be/HelpSearchResult?bctitle=Zoekresultaten&cate=&stxt=%2C
+
+### Facebook Marketplace
+
+
+
+
+## Scheiding privé / Marketplace & 2dehands
+
