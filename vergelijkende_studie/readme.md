@@ -49,3 +49,15 @@ zie [communication.txt](https://github.com/RobLui/web_research/blob/master/verge
 > Gemiddelde
 
 > Concurrentie
+
+## 01/11/2017
+
+zie [privacy.txt](https://github.com/RobLui/web_research/blob/master/vergelijkende_studie/txtfiles/privacy.txt) & toegevoegde screenshots onder /screenshots/privacy
+
+> algemene regels
+
+> data collectie
+
+> errors
+
+> juridisch
