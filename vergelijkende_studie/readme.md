@@ -52,20 +52,32 @@ zie [communication.txt](https://github.com/RobLui/web_research/blob/master/verge
 
 01/11/2017 - 02/11/2017 zie privacy.txt & toegevoegde screenshots onder /screenshots/privacy
 
-algemene regels
+> algemene regels
 
-data collectie
+> data collectie
 
-errors
+> errors
 
-juridisch 01/11/2017 zie communication.txt
+> juridisch 01/11/2017 zie communication.txt
 
-Feedback/rating
+> Feedback/rating
 
-Gemiddelde
+> Gemiddelde
 
-Concurrentie
+> Concurrentie
 
 ## 02-11/2017, 03-11-2017, 10/11/2017
 
 zie [api-funds.txt](https://github.com/RobLui/web_research/blob/master/vergelijkende_studie/txtfiles/api-funds.txt)
+
+> api
+
+> fundings
+
+## 10/11/2017, 11/11/2017
+
+zie [conclusie.txt](https://github.com/RobLui/web_research/blob/master/vergelijkende_studie/txtfiles/conclusie.txt)
+
+> eigen ervaringen
+
+> conclusie
