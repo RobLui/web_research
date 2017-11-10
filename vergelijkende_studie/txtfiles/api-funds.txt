@@ -4,7 +4,16 @@
 
 > Meerdere screenshots toegevoegd waarop ik uitkwam om te testen of er toch geen mogelijkheid was tot toegang van api's op 2dehands/facebook
 
+2dehands
 > Uiteindelijk besloten dat ik niet ga 'hacken' of 'illegal stuff' ga doen omdat het vanuit 2dehands verboden is vr devs om hun api te gebruiken zonder hun Toestemming
+
+FB Marketplace
+> Is opgesplitst in verschillende delen (doorheen de wereld) met verschillende soorten functionaliteiten
+
+> Wij hebben een veel minder uitgebreid pakket dan elders in de wereld (US als vb)
+
+> In de US is er een platform waarbij Real Estates huizen kunnen posten op fb marketplace
+link: https://www.inman.com/2016/10/03/facebooks-marketplace-lets-real-estate-agents-post-property-listings/
 
 
 ## FUNDS
@@ -21,4 +30,7 @@
 > > Ook via advertenties, maar minder.
 
 > > Hierbij is het voornamelijk om de data te doen ,en deze data is flink wat meer waard.
+
+> > Uit aangegeven voorbeeld (US Real Estates) komen ook inkomsten uit, zo is het zoals bij onze immoweb ook dat je een bepaalde hoeveelheid betaald om je advertentie op hun platform te mogen weergen
+
 
